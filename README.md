@@ -45,9 +45,9 @@
   </ul>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman947&show_icons=true&locale=en" alt="aman947" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman974&show_icons=true&locale=en" alt="aman947" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman947&" alt="aman947" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman974&" alt="aman947" /></p>
 
 
 <div align="center">
